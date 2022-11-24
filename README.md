@@ -34,8 +34,8 @@ FIGURE-01
 
 
 
-FIGURE-02
-PROCEDURE 
+
+## PROCEDURE 
  Open tinker cad account 
 1.	Select Arduino uno , bread board , digital input and digital output 
 2.	Connect the circuit as given in the figure 
