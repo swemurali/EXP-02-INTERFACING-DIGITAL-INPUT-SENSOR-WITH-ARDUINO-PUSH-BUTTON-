@@ -100,4 +100,5 @@ void loop()
 
 
 
-
+RESULT :
+Thus the digital input sensor is interfaced and activated using Adreno Push Button .
