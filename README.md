@@ -93,8 +93,9 @@ void loop()
 
  
 ```
-Output of the simulation :
+## Output of the simulation :
 ![RO1](https://user-images.githubusercontent.com/94165336/203825825-3cbbaa38-6c57-4f80-8f9d-fe710d2a5bd2.png)
+
 ![RO2](https://user-images.githubusercontent.com/94165336/203825912-cd0e65be-5772-4a8c-8961-b9992609e5d0.png)
 
 
